@@ -413,12 +413,9 @@ footer {
   width: 264px;
 }
 footer .container {
-  /* display: flex; */
 }
 
 .footer-logo-position {
-  /* display: flex;
-  flex-direction: column; */
   margin-right: 120px;
 }
 .footer-text-media {
@@ -437,7 +434,6 @@ footer .container {
 .footer-list-media {
   width: 40px;
   height: 40px;
-  /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 .footer-link-media {
   width: 100%;
@@ -457,4 +453,5 @@ footer .container {
 .footer-icons-media {
   fill: #f4f4fd;
 }
-.footer-icons-media/* #endregion */;
+.footer-icons-media {
+} /* #endregion */
